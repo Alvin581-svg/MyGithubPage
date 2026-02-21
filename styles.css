@@ -74,4 +74,7 @@ main a [href^="mailto:"] {
    font-weight: bold;
 }
 
+  git add .
+  git commit-m "Added CSS3 styling to ther website"
+  git push origin main
 
